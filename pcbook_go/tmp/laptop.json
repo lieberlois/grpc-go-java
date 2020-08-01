@@ -1,0 +1,62 @@
+{
+  "id": "7254ddde-98de-4a7d-8cf8-e2d39e8d4a49",
+  "brand": "Apple",
+  "name": "MacBook Pro",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i9-9900k",
+    "numCores": 2,
+    "numThreads": 4,
+    "minGhz": 2.7915179988125014,
+    "maxGhz": 2.9407282608363556
+  },
+  "ram": {
+    "value": "50",
+    "unit": 5
+  },
+  "gpus": [
+    {
+      "brand": "AMD",
+      "name": "RX 5700-XT",
+      "minGhz": 1.34654232814378,
+      "maxGhz": 1.8894022730989346,
+      "memory": {
+        "value": "2",
+        "unit": 5
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": 2,
+      "memory": {
+        "value": "544",
+        "unit": 5
+      }
+    },
+    {
+      "driver": 1,
+      "memory": {
+        "value": "1",
+        "unit": 6
+      }
+    }
+  ],
+  "screen": {
+    "sizeInch": 13.404122,
+    "resolution": {
+      "width": 6232,
+      "height": 3506
+    },
+    "panel": 2,
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": 1,
+    "backlit": true
+  },
+  "weightKg": 1.5263704928070645,
+  "priceUsd": 2217.3541154161458,
+  "releaseYear": 2017,
+  "updatedAt": "2020-07-23T21:37:12.292608600Z"
+}

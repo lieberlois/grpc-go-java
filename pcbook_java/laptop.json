@@ -1,0 +1,57 @@
+{
+  "id": "ec1fe6bf-1278-4fb7-8f67-a0d1d91fc1fa",
+  "brand": "Dell",
+  "name": "Alienware",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i5-4790k",
+    "num_cores": 3,
+    "num_threads": 11,
+    "min_ghz": 2.8271504983578004,
+    "max_ghz": 3.5160606018834804
+  },
+  "ram": {
+    "value": "44",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [{
+    "brand": "NVIDIA",
+    "name": "RTX 2040",
+    "min_ghz": 1.3845667787551075,
+    "max_ghz": 1.813414681330323,
+    "memory": {
+      "value": "5",
+      "unit": "GIGABYTE"
+    }
+  }],
+  "storages": [{
+    "driver": "SSD",
+    "memory": {
+      "value": "257",
+      "unit": "GIGABYTE"
+    }
+  }, {
+    "driver": "HDD",
+    "memory": {
+      "value": "1",
+      "unit": "TERABYTE"
+    }
+  }],
+  "screen": {
+    "size_inch": 15.755996,
+    "resolution": {
+      "width": 4003,
+      "height": 2252
+    },
+    "panel": "OLED",
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": "QWERTY",
+    "backlit": true
+  },
+  "weight_kg": 2.7109895598470346,
+  "price_usd": 2575.6143191007404,
+  "release_year": 2015,
+  "updated_at": "2020-07-15T21:02:05.754323Z"
+}
